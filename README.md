@@ -1,4 +1,4 @@
-# Flutter App with Riverpod and MVC/MVC+S Architecture
+# Flutter App with Riverpod and MVC Architecture
 
 <img width="496" alt="image" src="https://github.com/ELDERGARLIC/Riverpod-MVC-Project/assets/52277462/a3c6e2b8-02c8-4710-b623-4c051138d2c7">
 <img width="499" alt="image" src="https://github.com/ELDERGARLIC/Riverpod-MVC-Project/assets/52277462/2a4dfb55-e99c-4c79-98e5-55c866eb6f04">
